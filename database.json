@@ -59,6 +59,16 @@
       "smarks": "99",
       "imarks": "99",
       "address": "Bhopal"
+    },
+    {
+      "id": "fc4c",
+      "name": "Bhupendra",
+      "branch": "cs",
+      "email": "bhupendra@gmail.com",
+      "phone": "345678987",
+      "smarks": "77",
+      "imarks": "88",
+      "address": "Bhopal"
     }
   ]
 }
