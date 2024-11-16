@@ -1,0 +1,64 @@
+{
+  "customer": [
+    {
+      "name": "Haris khan",
+      "branch": "ex",
+      "email": "hkskhan0786@gmail.com",
+      "phone": "7987701586",
+      "smarks": "88",
+      "imarks": "86",
+      "address": "Sagar",
+      "id": "7988"
+    },
+    {
+      "name": "Irshad Ali",
+      "branch": "ex",
+      "email": "sqirshadali@gmail.com",
+      "phone": "8770168878",
+      "smarks": "99",
+      "imarks": "88",
+      "address": "Sagar",
+      "id": "2334"
+    },
+    {
+      "name": "Zayn khan",
+      "branch": "ex",
+      "email": "hkskhan0786@gmail.com",
+      "phone": "7987701586",
+      "smarks": "88",
+      "imarks": "86",
+      "address": "Bhopal",
+      "id": "ed78"
+    },
+    {
+      "id": "1a3b",
+      "name": "Disha Soni",
+      "branch": "ex",
+      "email": "  dsoni8765@GMAIL.COM",
+      "phone": "34567876543",
+      "smarks": "88",
+      "imarks": "98",
+      "address": "Bhopal"
+    },
+    {
+      "name": "Sidarth jain",
+      "branch": "Me",
+      "email": "sidharth@gmail.com",
+      "phone": "987654323",
+      "smarks": "56",
+      "imarks": "55",
+      "address": "Banda",
+      "id": "76e3"
+    },
+    {
+      "id": "8e36",
+      "name": "Shruti saraf",
+      "branch": "Ex",
+      "email": "shruto@gmail.com",
+      "phone": "123456780",
+      "smarks": "99",
+      "imarks": "99",
+      "address": "Bhopal"
+    }
+  ]
+}
